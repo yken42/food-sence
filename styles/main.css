@@ -9,6 +9,7 @@
   width: 80vw;
   height: 100vh;
   margin: 0 auto;
+  border: solid deeppink 1px;
 }
 
 .navbar-section {
